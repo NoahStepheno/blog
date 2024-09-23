@@ -4,8 +4,7 @@ layout: home
 
 hero:
   name: "小壮的 Blog"
-  text: "记录所思所想，希望回头能看到时间的轨迹。"
-  tagline: My great project tagline
+  tagline: 记录所思所想，希望回头能看到时间的轨迹。
   actions:
     - theme: brand
       text: Markdown Examples
