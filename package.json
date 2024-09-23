@@ -4,5 +4,13 @@
   "description": "记录所思所想，希望回头能看到时间的轨迹。",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.3.4"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
 }
