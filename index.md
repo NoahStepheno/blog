@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "小壮的 Blog"
+  name: "Ming's Blog"
   tagline: 记录所思所想，希望回头能看到时间的轨迹。
   actions:
     - theme: brand

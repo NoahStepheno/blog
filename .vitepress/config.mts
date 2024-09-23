@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "小壮的 Blog",
+  title: "Ming's Blog",
   description: "记录所思所想，希望回头能看到时间的轨迹。",
   base: "/blog/",
   themeConfig: {
