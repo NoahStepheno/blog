@@ -12,15 +12,12 @@ export default defineConfig({
       { text: "学习能力", link: "/study/basic" },
     ],
 
-    // sidebar: [
-    //   {
-    //     text: "Examples",
-    //     items: [
-    //       { text: "Markdown Examples", link: "/markdown-examples" },
-    //       { text: "Runtime API Examples", link: "/api-examples" },
-    //     ],
-    //   },
-    // ],
+    sidebar: [
+      {
+        text: "反思",
+        items: [{ text: "9.29", link: "/record/9.26" }],
+      },
+    ],
 
     socialLinks: [
       { icon: "github", link: "https://github.com/NoahStepheno/blog" },
