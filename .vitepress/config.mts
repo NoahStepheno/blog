@@ -7,15 +7,37 @@ export default defineConfig({
   base: "/blog/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: "首页", link: "/" },
-      { text: "学习能力", link: "/study/basic" },
-    ],
+    nav: [{ text: "首页", link: "/" }],
 
     sidebar: [
       {
         text: "反思",
-        items: [{ text: "9.29", link: "/record/9.26" }],
+        items: [
+          { text: "9.29", link: "/record/9.29" },
+          { text: "9.26", link: "/record/9.26" },
+        ],
+      },
+      {
+        text: "学习",
+        items: [
+          {
+            text: "学习能力",
+            link: "/study/basic",
+          },
+          {
+            text: "目标",
+            link: "/study/goal",
+          },
+        ],
+      },
+      {
+        text: "英语",
+        items: [
+          {
+            text: "目标",
+            link: "/english/goal",
+          },
+        ],
       },
     ],
 
