@@ -1,50 +1,28 @@
-# 目标
+# Goal
 
-雅思 8 分，达到工作英语可用，可随便与歪果仁聊天。
+IELTS brand 8, It's useful in job. And It's possible to talk to foreigners.
 
-## 目标拆解
+## Listening
 
-1. 词汇
-2. 语法
-3. 听力
-4. 阅读
-5. 口语
-6. 写作
-7. 雅思模拟
+### Milestones
 
-## 词汇
+[ ] Brand 6
 
-50 words \* 200 = 10,000 words
+Study 2 TED talks every day.
+Take a real test once every 2 days.
 
-2h \* 200d = 400h
+[ ] Brand 7
 
-## 语法
+Study 2 TED talks every day.
+Take a real test once every 2 days.
 
-15 天复习，15 \* 1 = 15h
+[ ] Brand 8
 
-## 听力
+Study 2 TED talks every day.
+Take a real test once every 2 days.
 
-1h \* 200d = 200h
+## Reading
 
-## 口语
+## Writing
 
-1h \* 200d = 200h
-
-## 阅读
-
-1h \* 200d = 200h
-
-## 写作
-
-1h \* 30 = 30h
-
-## 模拟
-
-4h \* 20 = 80h
-
-# 总计
-
-200d
-400 + 15 + 200 + 200 + 200 + 30 = 1125h
-
-最长路径每天 5h 225 天完成
+## Speaking

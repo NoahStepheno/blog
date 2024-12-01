@@ -18,24 +18,28 @@ export default defineConfig({
         ],
       },
       {
-        text: "学习",
-        items: [
-          {
-            text: "学习能力",
-            link: "/study/basic",
-          },
-          {
-            text: "目标",
-            link: "/study/goal",
-          },
-        ],
-      },
-      {
         text: "英语",
         items: [
           {
             text: "目标",
             link: "/english/goal",
+          },
+          {
+            text: "TED Talks",
+            items: [
+              {
+                text: "apocalyptic optimist",
+                link: "/english/talks/apocalyptic optimist",
+              },
+              {
+                text: "how 3 words change your life",
+                link: "/english/talks/how 3 words change your life",
+              },
+              {
+                text: "why we're so anxious about the future of the work",
+                link: "/english/talks/why we're so anxious about the future of the work",
+              },
+            ],
           },
         ],
       },

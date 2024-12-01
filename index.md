@@ -6,9 +6,6 @@ hero:
   name: "Ming's Blog"
   tagline: 记录所思所想，希望回头能看到时间的轨迹。
   actions:
-    - theme: brand
-      text: 学习能力
-      link: /study/basic
     - theme: alt
       text: 反思
       link: /record/touching
