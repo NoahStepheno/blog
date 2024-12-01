@@ -294,3 +294,77 @@
 
 - Police believe that a racist group behind the attacks.
 - Behind your every action is self-interest.
+
+## Above
+
+1. 在...上面，在...之上 （空间、地理位置、物体表面）
+
+- We lived in the room above the shop.
+- The sun rose above the horizon.
+
+2. 超过、胜过、高于
+
+- The company's profits were 23% above the previous year.
+- In most subjects the students scored well above average.
+
+3. 不屑于
+
+- Jac was cheating? I think he was above this sort of thing.
+
+4. 最重要的是，尤其是
+
+- In their society, honesty was prized above other virtues.
+- We value over independence above anything you can offer us.
+
+## Below
+
+1. 在...下面，在...下面，在...下
+
+- There is a supermarket below the department store.
+- There is a waterfall far below the bridge.
+
+2. 少于，低于，不及（数量、地位等）
+
+- During the night, the temperature dropped below zero.
+- The collage can not accept the candidates with test scores below 60.
+- Houses prices are still 2% below 2000 levels.
+
+## Toward
+
+向，朝，面对
+
+- He ran toward his house.
+- The bus follows the road towards BeiJing.
+- He was not feeling friendly toward you at the moment.
+- I have shown enough forbearance toward him.
+- I'll phone you toward the end of this week.
+- Caroline's name appeared toward the bottom of the list.
+
+## Along
+
+沿着
+
+- We walked along the road.
+- The procession along the street.
+- Here are a few suggestions along the line.
+- The House will make a few changes and suggestions along the way.
+
+## Beyond
+
+超越，超出
+
+- The scenery there is beautify beyond description.
+- Jenny won the competition beyond everyone's expectation.
+- Don't stay here beyond midnight.
+- The new lay extends this ban beyond 2022.
+- Some people will prefer to continue working beyond 65.
+- Inflation had risen beyond 10%.
+
+## Except
+
+除了...之外
+
+- All the team were there except Eddie, who was ill.
+- He's done nothing all day except sit around and watch TV.
+- I'd be glad to help, except I'm going to be away this weekend.
+- He id quit nice except that he is bad-tempered.
