@@ -145,7 +145,7 @@
 
 - I we have much more rain, the game might be called off. 取消
 
-# Work
+## Work
 
 ![Work Image](/assets//work.png)
 
@@ -176,7 +176,7 @@
 
 - Don't worry about that, I'm working on it. 处理
 
-# Get
+## Get
 
 > 整
 
@@ -262,7 +262,7 @@
 - Don is pretty upset, but he'll get over it. 克服
 - I don't know how we can get over this problem. 战胜
 
-# Try
+## Try
 
 ![Try Image](/assets/try.png)
 
@@ -283,7 +283,7 @@
 
 - Rita's trying out for school play again. 尝试
 
-# Send
+## Send
 
 ![Send Image](/assets/send.png)
 
@@ -312,7 +312,7 @@
 
 - I sent off the letter this morning. 送出
 
-# Think
+## Think
 
 ![Think Image](/assets/think.png)
 
@@ -345,7 +345,7 @@
 
 - We're thinking ahead to the next meeting. 提前考虑
 
-# Pick
+## Pick
 
 > 拿起来
 
@@ -369,7 +369,7 @@
 
 - Penny could only pick at her meal, forcing down a mouthful or two. 少量的吃
 
-# Cut
+## Cut
 
 > 切
 
@@ -396,7 +396,7 @@
 - Could you cut the pizza up, please. 切好
 - Some idiot cut me up on the motorway. 阻断
 
-# Break
+## Break
 
 > 断开
 
