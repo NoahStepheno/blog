@@ -41,6 +41,19 @@ export default defineConfig({
               },
             ],
           },
+          {
+            text: "vocabularies",
+            items: [
+              {
+                text: "prepositions",
+                link: "/english/vocabularies/prepositions",
+              },
+              {
+                text: "verbs",
+                link: "/english/vocabularies/verbs",
+              },
+            ],
+          },
         ],
       },
     ],
