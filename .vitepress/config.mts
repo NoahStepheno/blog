@@ -10,12 +10,16 @@ export default defineConfig({
     nav: [{ text: "首页", link: "/" }],
 
     sidebar: [
+      // {
+      //   text: "反思",
+      //   items: [
+      //     { text: "9.29", link: "/record/9.29" },
+      //     { text: "9.26", link: "/record/9.26" },
+      //   ],
+      // },
       {
-        text: "反思",
-        items: [
-          { text: "9.29", link: "/record/9.29" },
-          { text: "9.26", link: "/record/9.26" },
-        ],
+        text: "随笔",
+        items: [{ text: "程序员35岁危机", link: "/essay/程序员35岁危机" }],
       },
       {
         text: "英语",
@@ -51,6 +55,19 @@ export default defineConfig({
               {
                 text: "verbs",
                 link: "/english/vocabularies/verbs",
+              },
+            ],
+          },
+          {
+            text: "essay",
+            items: [
+              {
+                text: "my hometown",
+                link: "/english/writings/my hometown",
+              },
+              {
+                text: "when I was a student",
+                link: "/english/writings/when I was a student",
               },
             ],
           },
